@@ -1,5 +1,4 @@
 ## Hi, ich bin Phil 👋
-25 Jahre, 🍏Apple-Sheep, Eishockey-Fan🥅
 
 ## 📚Tech Stack
 - 🟧 Swift, SwiftUI
@@ -7,11 +6,11 @@
 - 🗂️ GitHub
 
 ## Projekte
-- 🗓️ FutureRadar: Event-Countdown für die MenuBar
-- 👨🏻‍💻 HWS Challenges: Implementierungen der "100 Days of SwiftUI" Challenge-Days
+- 🗓️ FutureRadar: Event-Countdown für die MenuBar [[GitHub](https://github.com/smphseis/FutureRadar)]
+- 👨🏻‍💻 HWS Challenges: Implementierungen der "100 Days of SwiftUI" Challenge-Days [[GitHub](https://github.com/smphseis/HWS/tree/main/Challenges)]
 
 ## Weitere Repositorys
-- 🗒️ HWS: Implementierungen und Notizen der Projekte von "100 Days of SwiftUI"
+- 🗒️ HWS: Implementierungen und Notizen der Projekte von "100 Days of SwiftUI" [[GitHub](https://github.com/smphseis/HWS)]
 
 <!--
 **smphseis/smphseis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
