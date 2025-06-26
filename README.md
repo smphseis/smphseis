@@ -6,7 +6,7 @@
 - 🗂️ GitHub
 
 ## Projekte
-- 🗓️ FutureRadar: Event-Countdown für die MenuBar [[GitHub](https://github.com/smphseis/FutureRadar)]
+- 🗓️ Waiting For Menu: Event-Countdown für die MenuBar [[GitHub](https://github.com/smphseis/FutureRadar)]
 - 👨🏻‍💻 HWS Challenges: Implementierung der "100 Days of SwiftUI" Challenge-Days [[GitHub](https://github.com/smphseis/HWS/tree/main/Challenges)]
 - 🗒️ HWS: Implementierungen mit Notizen der (Technologie-)Projekte von "100 Days of SwiftUI" [[GitHub](https://github.com/smphseis/HWS)]
 
